@@ -2,6 +2,7 @@
   "name": "polar-paradise",
   "displayName": "Polar Paradise",
   "description": "❄️ Where penguins code! A refreshing light theme inspired by pristine Arctic landscapes, crystalline igloos, and our tuxedo-wearing friends. Featuring ice-crisp whites, glacier blues, and just a hint of penguin personality. Perfect for developers who keep their cool under pressure! 🐧",
+  "icon": "/assets/logo.png",
   "version": "0.0.2",
   "publisher": "HatemSoliman",
   "repository": {

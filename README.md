@@ -40,14 +40,17 @@ Tired of burning your retinas with dark themes? Bored of bland light themes? Say
 ## 📸 Screenshots
 
 ### JavaScript/TypeScript
+
 ![JavaScript Screenshot](https://via.placeholder.com/800x400.png?text=Cool+JavaScript+Screenshot)
 *So cool, it might freeze your syntax*
 
 ### Python
+
 ![Python Screenshot](https://via.placeholder.com/800x400.png?text=Chill+Python+Screenshot)
 *Snake? No, we only have penguins here*
 
 ### HTML/CSS
+
 ![HTML Screenshot](https://via.placeholder.com/800x400.png?text=Frosty+HTML+Screenshot)
 *Web development with a side of snowflakes*
 
@@ -61,7 +64,7 @@ Tired of burning your retinas with dark themes? Bored of bland light themes? Say
 
 ## 🐧 The Penguin Pledge
 
-```
+```bash
 I solemnly swear that I am up to snow good
 And will write the coolest code possible
 While enjoying this ice-olated development environment
