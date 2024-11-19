@@ -41,17 +41,18 @@ Tired of burning your retinas with dark themes? Bored of bland light themes? Say
 
 ### JavaScript/TypeScript
 
-![JavaScript Screenshot](https://via.placeholder.com/800x400.png?text=Cool+JavaScript+Screenshot)
+![TypeScript Screenshot](./assets/typescript-code.png)
 *So cool, it might freeze your syntax*
 
 ### Python
 
-![Python Screenshot](https://via.placeholder.com/800x400.png?text=Chill+Python+Screenshot)
+![Python Screenshot](./assets/python-code.png)
 *Snake? No, we only have penguins here*
 
 ### HTML/CSS
 
-![HTML Screenshot](https://via.placeholder.com/800x400.png?text=Frosty+HTML+Screenshot)
+![HTML Screenshot](./assets/html-code.png)
+![CSS Screenshot](./assets/css-code.png)
 *Web development with a side of snowflakes*
 
 ## 🎮 Installation
@@ -85,7 +86,7 @@ While enjoying this ice-olated development environment
 > Where bugs are cold,
 > And syntax's nice!
 > 
-> (Sing to the tune of "Let It Go" - you know you want to)
+> [Sing to the tune of "Let It Go" - you know you want to](https://youtu.be/L0MK7qz13bU?si=OUHxJXL0Zc0pcBm7)
 
 ## 🤝 Contributing
 
@@ -95,7 +96,7 @@ Create an issue or PR! We welcome all contributors, especially those bringing fi
 
 ## ⚖️ License
 
-MIT License - Feel free to share with all your penguin friends!
+Creative Commons License - Feel free to share with all your penguin friends! - Feel free to share with all your penguin friends!
 
 ## 🎭 The Team Behind The Theme
 
